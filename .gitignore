@@ -88,3 +88,4 @@ fastlane/test_output
 # https://github.com/johnno1962/injectionforxcode
 
 iOSInjectionProject/
+swift/swift-firebase-minimal/swift-firebase-minimal/GoogleService-Info.plist
