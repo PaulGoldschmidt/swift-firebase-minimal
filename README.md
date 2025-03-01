@@ -1,6 +1,9 @@
 # swift-firebase-minimal
 A minimalistic demo application showcasing integration between Swift and Firebase, featuring Firestore for data storage and Cloud Functions for serverless backend operations. Build in one night to try & debug future Firebase functions.
 
+> [!IMPORTANT]  
+> This repo is just for testing and should not considered any kind of production-ready code.
+
 This project demonstrates how to build a simple iOS application with Swift and SwiftUI that connects to Firebase services, specifically:
 
 * Firebase Firestore for real-time data storage
